@@ -10,7 +10,10 @@ class Configure(object):
         config = parser.read(config_file)
 
         if config:
-            value = parser.get(section, option)
-            return value
+            try:
+                value = parser.get(section, option)
+                return value
+            except Exception as e:
+                print(e)
         else:
             print('Config file is not exist')
