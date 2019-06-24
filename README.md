@@ -4,7 +4,6 @@ Python Selenium Web Automation
 ## Description
 It's a web automation project in Page Object design pattern, developed in Python & Selenium. Take *test_runner.py* as a entry of project to concatenate Page Objects, Automation Scripts.
 
-My Web : [https://ramadepo.github.io/](https://ramadepo.github.io/)
 
 ## Python Env
 * python 3.7
