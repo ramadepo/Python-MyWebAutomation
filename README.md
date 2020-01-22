@@ -4,7 +4,6 @@ Python Selenium Web Automation
 ## Description
 It's a web automation project in Page Object design pattern, developed in Python & Selenium. Take *test_runner.py* as a entry of project to concatenate Page Objects, Automation Scripts.
 
-
 ## Python Env
 * python 3.7
 
@@ -13,7 +12,9 @@ It's a web automation project in Page Object design pattern, developed in Python
     ```
     pip install selenium
     ```
-
+## Driver
+* [chrome driver](https://chromedriver.chromium.org/downloads)
+* [firefox driver](https://github.com/mozilla/geckodriver)
 
 ## Project Structure
 ```
